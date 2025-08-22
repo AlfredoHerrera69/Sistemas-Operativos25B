@@ -1,5 +1,5 @@
 import cv2
-
+# Alfredo Adair Herrera Rodríguez
 # Leer la imagen (asegúrate de que el nombre sea exacto)
 img = cv2.imread('cartas.jpeg', 0)
 
